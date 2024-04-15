@@ -12,7 +12,7 @@
         "buildingsIcons": "castle/town-hall.def",     
         "guildWindow": "castle/town-screen/mage-guild.bmp", 
         "townBackground": "castle/town-screen/background.bmp", 
-        "musicTheme" : "music/factions/snowTown",
+        "musicTheme" : "music/factions/Whispers_of_Winter",
 		"mapObject" : {
 			"templates" : 
             {
